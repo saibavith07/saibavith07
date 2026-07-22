@@ -12,18 +12,17 @@
 
 ### ⚡ Architecting Intelligence
 
-I am a CSE AIML engineer transitioning from theory to production-grade architecture. I don't just consume tutorials; I build, break, and scale systems. My current focus is pushing the boundaries of machine learning, from dynamic risk assessment to computer vision.
+I am a CSE AIML engineer transitioning from theory to production-grade architecture. I focus on building highly robust, multi-dimensional systems—prioritizing clean code, scalable backend logic, and advanced machine learning integration. 
 
-- 🔭 **Currently Building:** Predictive Cyber-Threat Frameworks & Deepfake Detection.
-- 🧠 **Learning:** Advanced Data Structures, Algorithms, and Clean Code Architecture.
-- 🚀 **Philosophy:** Build robust, multi-dimensional systems. Red $\rightarrow$ Green $\rightarrow$ Refactor.
+- 🔭 **Focus Areas:** Computer Vision, Dynamic Risk Assessment, & Predictive AI Models.
+- 🧠 **Current Obsession:** Advanced Data Structures, Clean Architecture, and `Red -> Green -> Refactor`.
+- 🎓 **Education:** B.Tech in CSE (AI/ML) – Semester 5.
 
 ---
 
-### 🛠️ The Arsenal
+### 🛠️ The Tech Stack
 
-<!-- Tech Badges -->
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -34,12 +33,18 @@ I am a CSE AIML engineer transitioning from theory to production-grade architect
 
 ---
 
-### 🔥 The Engine (Real-Time Stats)
+### 🚀 Featured Architecture & Systems
 
+Here are the core systems I am actively engineering and scaling:
+
+| System | Architecture & Logic | Impact |
+|---|---|---|
+| **Adaptive Cyber-Threat Model** | Predictive AI framework featuring an AI-Morphic Engine. | Dynamic risk assessment and predictive threat modeling. |
+| **DeepFake Detection System** | MesoNet-4 architecture integrated with Frequency Domain Artifacts (DFT). | Distinguishes authentic media from AI-generated anomalies. |
+| **MediSense AI** | Cross-platform frontend application built in React Native / Expo. | 🏆 *2nd Place at Hack Odyssey 3.0* |
+| **Nutra** | AI-powered nutrition tracking with a Python/Flask & MySQL backend. | Scalable dietary tracking and metric calculation. |
+
+<br>
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saibavith07&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saibavith07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
+  <i>"Do not just consume tutorials. Build, break, and scale."</i>
 </div>
