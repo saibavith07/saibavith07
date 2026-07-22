@@ -37,7 +37,9 @@ I am a CSE AIML engineer transitioning from theory to production-grade architect
 ### 🔥 The Engine (Real-Time Stats)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saibavith07&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saibavith07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
 </div>
